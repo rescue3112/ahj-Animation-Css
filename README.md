@@ -1,5 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/e28hdsp6575ac6lf?svg=true)](https://ci.appveyor.com/project/AlexWEBArt/ahj-animation)
-https://alexwebart.github.io/AHJ-Animation/
+[![Build status](https://ci.appveyor.com/api/projects/status/eks66f8vawkxp3sg?svg=true)](https://ci.appveyor.com/project/rescue3112/ahj-animation-css)
 
 # Домашнее задание к занятию "9. Анимации и CSS"
 
